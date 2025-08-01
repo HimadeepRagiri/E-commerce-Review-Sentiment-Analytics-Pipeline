@@ -1,0 +1,12 @@
+apache-airflow==2.7.1
+pendulum==2.1.2
+psycopg2-binary==2.9.6
+flask-session==0.4.0
+connexion==2.14.1
+apache-airflow-providers-apache-spark
+pyspark==3.3.2
+firebase-admin
+python-dotenv
+textblob
+streamlit
+pytest

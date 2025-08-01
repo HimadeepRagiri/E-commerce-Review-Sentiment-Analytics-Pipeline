@@ -43,7 +43,7 @@ with DAG(
         python_callable=load_to_firestore_main,
     )
 
-    # Launch Streamlit app
+    # Task 4: Launch Streamlit app
     launch_streamlit = BashOperator(
         task_id='launch_streamlit_dashboard',
         bash_command=(

@@ -65,7 +65,7 @@ Transform your e-commerce review data into actionable business insights with thi
 - **Product-level Aggregation**: Average sentiment scores per product
 
 ### 🚀 **Scalable Data Processing**
-- **Distributed Computing**: Spark cluster for handling millions of reviews
+- **Distributed Computing**: Spark cluster for handling millions of reviews and big data
 - **Memory Optimization**: Efficient data structures and caching strategies
 - **Parallel Processing**: Concurrent task execution for faster results
 - **Resource Management**: Dynamic scaling based on data volume
